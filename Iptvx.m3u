@@ -1,0 +1,31 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-id="bigbuckbunny" tvg-name="Big Buck Bunny" tvg-logo="https://peach.blender.org/wp-content/uploads/bbb-splash.png" group-title="Animation", Big Buck Bunny [1080p]
+https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4
+
+#EXTINF:-1 tvg-id="sintel" tvg-name="Sintel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Sintel_poster.jpg/800px-Sintel_poster.jpg" group-title="Animation", Sintel [1080p]
+https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/Sintel.mp4
+
+#EXTINF:-1 tvg-id="tearsofsteel" tvg-name="Tears of Steel" tvg-logo="https://mango.blender.org/wp-content/themes/mango/images/project_files/header.jpg" group-title="Sci-Fi", Tears of Steel [1080p]
+https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/TearsOfSteel.mp4
+
+#EXTINF:-1 tvg-id="elephantsdream" tvg-name="Elephants Dream" tvg-logo="https://orange.blender.org/wp-content/themes/orange/images/ed_header.jpg" group-title="Sci-Fi", Elephants Dream [1080p]
+https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ElephantsDream.mp4
+
+#EXTINF:-1 tvg-id="nightofthelivingdead" tvg-name="Night of the Living Dead" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9e/Night_of_the_Living_Dead_%281968%29_poster.jpg" group-title="Horror", Night of the Living Dead [720p]
+https://archive.org/download/night_of_the_living_dead/night_of_the_living_dead_512kb.mp4
+
+#EXTINF:-1 tvg-id="plan9" tvg-name="Plan 9 from Outer Space" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5e/Plan_9_Alternative_poster.jpg" group-title="Sci-Fi", Plan 9 from Outer Space [720p]
+https://archive.org/download/Plan9FromOuterSpace/Plan_9_from_Outer_Space_512kb.mp4
+
+#EXTINF:-1 tvg-id="nosferatu" tvg-name="Nosferatu" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0b/Nosferatuposter.jpg" group-title="Horror", Nosferatu (1922) [720p]
+https://archive.org/download/Nosferatu1922/Nosferatu_1922.mp4
+
+#EXTINF:-1 tvg-id="metropolis" tvg-name="Metropolis" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/06/Metropolisposter.jpg" group-title="Sci-Fi", Metropolis (1927) [720p]
+https://archive.org/download/Metropolis1927/Metropolis_1927.mp4
+
+#EXTINF:-1 tvg-id="dementia13" tvg-name="Dementia 13" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6b/Dementia_13_%281963%29_poster.jpg" group-title="Horror", Dementia 13 [720p]
+https://archive.org/download/Dementia13_201805/Dementia13_512kb.mp4
+
+#EXTINF:-1 tvg-id="carnivalofsouls" tvg-name="Carnival of Souls" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3b/Carnival_of_Souls_%281962%29_poster.jpg" group-title="Horror", Carnival of Souls [720p]
+https://archive.org/download/CarnivalOfSouls/CarnivalOfSouls.mp4
