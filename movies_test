@@ -1,9 +1,35 @@
 #EXTM3U
-#EXTINF:-1, Big Buck Bunny (1080p)
-https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4
-#EXTINF:-1, Tears of Steel (1080p)
-https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/TearsOfSteel.mp4
-#EXTINF:-1, Sintel (1080p)
-https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/Sintel.mp4
-#EXTINF:-1, Elephants Dream (1080p)
-https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ElephantsDream.mp4
+
+#EXTINF:-1 tvg-id="nightofthelivingdead" tvg-name="Night of the Living Dead" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Night_of_the_Living_Dead_%281968%29_poster.jpg/800px-Night_of_the_Living_Dead_%281968%29_poster.jpg" group-title="Horror", Night of the Living Dead [1080p]
+https://archive.org/download/nightoflivingdead/nol_dead_1080p.mp4
+#EXTINF:-1 tvg-id="nightofthelivingdead" tvg-name="Night of the Living Dead" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Night_of_the_Living_Dead_%281968%29_poster.jpg/800px-Night_of_the_Living_Dead_%281968%29_poster.jpg" group-title="Horror", Night of the Living Dead [720p]
+https://archive.org/download/nightoflivingdead/nol_dead_720p.mp4
+
+#EXTINF:-1 tvg-id="plan9fromouterspace" tvg-name="Plan 9 from Outer Space" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Plan_9_Alternative_poster.jpg/800px-Plan_9_Alternative_poster.jpg" group-title="Sci-Fi", Plan 9 from Outer Space [1080p]
+https://archive.org/download/Plan9FromOuterSpace/Plan_9_from_Outer_Space_1080p.mp4
+#EXTINF:-1 tvg-id="plan9fromouterspace" tvg-name="Plan 9 from Outer Space" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Plan_9_Alternative_poster.jpg/800px-Plan_9_Alternative_poster.jpg" group-title="Sci-Fi", Plan 9 from Outer Space [720p]
+https://archive.org/download/Plan9FromOuterSpace/Plan_9_from_Outer_Space_720p.mp4
+
+#EXTINF:-1 tvg-id="dementia13" tvg-name="Dementia 13" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Dementia_13_%281963%29_poster.jpg/800px-Dementia_13_%281963%29_poster.jpg" group-title="Horror", Dementia 13 [1080p]
+https://archive.org/download/Dementia13_201805/Dementia13_1080p.mp4
+#EXTINF:-1 tvg-id="dementia13" tvg-name="Dementia 13" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Dementia_13_%281963%29_poster.jpg/800px-Dementia_13_%281963%29_poster.jpg" group-title="Horror", Dementia 13 [720p]
+https://archive.org/download/Dementia13_201805/Dementia13_720p.mp4
+
+#EXTINF:-1 tvg-id="thebrainthatwouldntdie" tvg-name="The Brain That Wouldn't Die" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/The_Brain_That_Wouldn%27t_Die_%281962%29_poster.jpg/800px-The_Brain_That_Wouldn%27t_Die_%281962%29_poster.jpg" group-title="Sci-Fi", The Brain That Wouldn't Die [1080p]
+https://archive.org/download/TheBrainThatWouldntDie/The_Brain_That_Wouldnt_Die_1080p.mp4
+#EXTINF:-1 tvg-id="thebrainthatwouldntdie" tvg-name="The Brain That Wouldn't Die" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/The_Brain_That_Wouldn%27t_Die_%281962%29_poster.jpg/800px-The_Brain_That_Wouldn%27t_Die_%281962%29_poster.jpg" group-title="Sci-Fi", The Brain That Wouldn't Die [720p]
+https://archive.org/download/TheBrainThatWouldntDie/The_Brain_That_Wouldnt_Die_720p.mp4
+
+#EXTINF:-1 tvg-id="carnivalofsouls" tvg-name="Carnival of Souls" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Carnival_of_Souls_%281962%29_poster.jpg/800px-Carnival_of_Souls_%281962%29_poster.jpg" group-title="Horror", Carnival of Souls [1080p]
+https://archive.org/download/CarnivalOfSouls/Carnival_of_Souls_1080p.mp4
+#EXTINF:-1 tvg-id="carnivalofsouls" tvg-name="Carnival of Souls" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Carnival_of_Souls_%281962%29_poster.jpg/800px-Carnival_of_Souls_%281962%29_poster.jpg" group-title="Horror", Carnival of Souls [720p]
+https://archive.org/download/CarnivalOfSouls/Carnival_of_Souls_720p.mp4
+
+#EXTINF:-1 tvg-id="nosferatu" tvg-name="Nosferatu" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Nosferatuposter.jpg/800px-Nosferatuposter.jpg" group-title="Horror", Nosferatu [1080p]
+https://archive.org/download/Nosferatu1922/Nosferatu_1922_1080p.mp4
+#EXTINF:-1 tvg-id="nosferatu" tvg-name="Nosferatu" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Nosferatuposter.jpg/800px-Nosferatuposter.jpg" group-title="Horror", Nosferatu [720p]
+https://archive.org/download/Nosferatu1922/Nosferatu_1922_720p.mp4
+
+#EXTINF:-1 tvg-id="metropolis" tvg-name="Metropolis" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Metropolisposter.jpg/800px-Metropolisposter.jpg" group-title="Sci-Fi", Metropolis [1080p]
+https://archive.org/download/Metropolis1927/Metropolis_1927_1080p.mp4
+#EXTINF:-1 tvg-id="metropolis" tvg-name=" 
